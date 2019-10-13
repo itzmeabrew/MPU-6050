@@ -1,7 +1,7 @@
 # MPU-6050
-This repository contains library of MPU 6050 digital motion processor
+This repository contains library of MPU 6050 digital motion processor.
 
-MPU-6050 Six-Axis (Gyro + Accelerometer) MEMS MotionTracking™ Devices
+MPU-6050 Six-Axis (Gyro + Accelerometer) MEMS MotionTracking™ Devices.
 
 The MPU-6050™ parts are the world’s first MotionTracking devices designed for the low power, low cost, and high-performance requirements of smartphones, tablets and wearable sensors.
 
