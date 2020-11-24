@@ -7,7 +7,7 @@ Released in to public domain
 #ifndef MPU6050_h
 #define MPU6050_h
 #include "Arduino.h"
-#include<Wire.h>
+#include <Wire.h>
 
 class MPU6050
 {
