@@ -46,6 +46,6 @@ void loop()
 
   Serial.print("Gyroscope data");
   Serial.print(gyrox);
-  Serial.print(gyrox);
-  Serial.print(gyrox);
+  Serial.print(gyroy);
+  Serial.print(gyroz);
 }
